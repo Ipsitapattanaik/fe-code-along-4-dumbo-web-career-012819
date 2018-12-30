@@ -78,6 +78,8 @@ figcaption {
 }
 .col-1 {
   float: left;
+  width: 32%;
+  background: #ccc;
   /* this column will span one-third */
 }
  
