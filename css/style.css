@@ -77,13 +77,16 @@ figcaption {
   background: #eee;
 }
 .col-1 {
+  float: left;
   /* this column will span one-third */
 }
  
 .col-2 {
+  float: left;
   /* this column will span two-thirds */
 }
  
 .col-3 {
+  
   /* this column will span all the entire wrapper */
 }
